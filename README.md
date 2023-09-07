@@ -8,4 +8,4 @@
 
 
 ###Bike Sales Dashboard:
-![image](https://github.com/lenni991/Excel-Dashboard-on-Bike-Sales-Dataset/assets/82563121/60b6ee6e-5011-4e3a-9d1d-b2f90cdac12c)
+![image](https://github.com/lenni991/Excel-Dashboard-on-Bike-Sales-Dataset/assets/82563121/2ce363b3-6ef0-4762-9897-734964e63d4b)
