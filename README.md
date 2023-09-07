@@ -3,8 +3,7 @@
 Bike Sales Excel Dashboard
 
 Explore bike sales data with this Excel Dashboard! This repository contains:
-
-    Dataset: Raw bike sales data.
+	Dataset: Raw bike sales data.
     Data Cleaning Formulas: Formulas used for data preparation.
     Pivot Tables: Summarized data for insights.
     Bike Sales Dashboard: Visualize key metrics.
